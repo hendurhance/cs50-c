@@ -1,0 +1,8 @@
+1a. I prompt the user for height
+1b. Height should be a positive integer from 1 to 8
+1c. If user input is not no. 2 re prompt 
+2. Loop iterates from 1 to users input to determine row of pyramid
+3a. Loop to determine row of pyramid
+3b. If row plus column is greater than or equal to height -1 print hashes
+3c. If not print spaces
+5. i%\n prints a new line after each row
