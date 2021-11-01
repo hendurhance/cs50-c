@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Sorting files takes less amount of time compared to sort3
+
+sort2 uses: Merge Sort
+
+How do you know?: Sorting files seems faster than other sorting techniques i.e Sort1, Sort 2
+
+sort3 uses: Selection Sort
+
+How do you know?: Sorting files takes more time running as compared to Sort 1 
